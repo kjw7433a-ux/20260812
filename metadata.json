@@ -1,0 +1,6 @@
+{
+  "name": "꽃돼지 PC방 메뉴판 & 실시간 주문 알림",
+  "description": "꽃돼지 PC방 프리미엄 메뉴판 웹앱 - 좌석별 주문, 실시간 알림 음성/소리/Discord 웹훅/브라우저 푸시 및 사장님 카운터 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
